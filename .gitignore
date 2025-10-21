@@ -1,0 +1,16 @@
+build/
+.vs/
+*.user
+*.suo
+*.sln
+*.vcxproj*
+*.dir/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+out/
+bin/
+lib/
+
+# Keep VS Code settings
+!.vscode/
